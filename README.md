@@ -2,7 +2,7 @@
 Are Action movies profitable? 
 If they are - what type is the most profitable?
 
-For Action movies and Data Analysis, I used the IMDB website and report builder. Also, data was scraped from the Numbers and Mediaversity website.
+For Action movies Data Analysis, I used the IMDB website and report builder. Also, data was scraped from the Numbers and Mediaversity website.
 When data was collected and imported into Excel, I inserted two additional rows and created formulas for ROI and PROI (for more appealing visual effects).
 After that, it was imported into SQL and joined with the following SQL query:
 
